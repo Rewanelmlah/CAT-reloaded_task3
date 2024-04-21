@@ -1,16 +1,8 @@
 # cat_task3
 
-A new Flutter project.
+simple sign in screen with two modes dark mode and light mode we can switch between them.
 
-## Getting Started
+there are two textformfields one for user name and one for password
 
-This project is a starting point for a Flutter application.
+when we click on the floatingaction button it checks if user inter informayion or not, if not a messages contain "username/password cannot be embty"
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
